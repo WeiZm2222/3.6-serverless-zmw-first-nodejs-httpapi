@@ -1,5 +1,8 @@
+note: 
+For 3.6 assignment, I followed the instructions in the [Getting Started with Serverless Framework](https://www.youtube.com/watch?v=KQRGM9_eqIw) Youtube tutorial, and used the serverless code provided [here](https://github.com/serverless/tutorial)
+
 <!--
-title: 'Getting Started'
+title: 'Getting Started'  )
 description: 'This template demonstrates how to make a simple HTTP API with Node.js running on AWS Lambda, API Gateway and DynamoDB using the Serverless Framework.'
 layout: Doc
 framework: v3
