@@ -1,5 +1,5 @@
 note: 
-For 3.6 assignment, I followed the instructions in the [Getting Started with Serverless Framework](https://www.youtube.com/watch?v=KQRGM9_eqIw) Youtube tutorial, and used the serverless code provided [here](https://github.com/serverless/tutorial)
+For 3.6 assignment, I followed the instructions in the [Getting Started with Serverless Framework](https://www.youtube.com/watch?v=KQRGM9_eqIw) Youtube tutorial, and used the serverless code provided [here](https://github.com/serverless/tutorial). Using this code, sucessfully deployed serverless functions and created DynamoDB table. Data was also sucessfully updated using createCustomers function, and retrieved using getCustomers function. 
 
 <!--
 title: 'Getting Started'  )
